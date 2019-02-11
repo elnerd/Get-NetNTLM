@@ -1,4 +1,4 @@
-    function Get-NetNTLM-Hash {
+function Get-NetNTLM-Hash {
 <#
 .SYNOPSIS
     Retrieves the current user NetNTLM hash by authentication against an embedded HTTP-server.    
