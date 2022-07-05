@@ -3,7 +3,7 @@ function Get-NetNTLM-Hash {
 .SYNOPSIS
     Retrieves the current user NetNTLM hash by authentication against an embedded HTTP-server.    
     PowerSploit Function: Get-NetNTLM-Hash
-    Author: Erlend Leiknes / https://www.svartboks.com
+    Author: Erlend Leiknes / https://www.mnemonic.io
     License: BSD 3-Clause
     Required Dependencies: None
     Optional Dependencies: None
